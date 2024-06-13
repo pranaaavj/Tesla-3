@@ -40,9 +40,9 @@
     display: none;
   }
 }
-@media (max-width: 440px) {
+@media (max-width: 380px) {
   .content-button-container {
-    padding-top: 320px;
+    padding-top: 300px;
   }
   .footer-tags span {
     display: none;
