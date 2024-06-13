@@ -36,9 +36,6 @@
   right: 0;
 }
 @media (max-width: 1024px) {
-  .content-button-container {
-    padding-top: 700px;
-  }
   .nav-icons {
     display: none;
   }
